@@ -143,4 +143,3 @@ class DataFetcher:
         except Exception as e:
             logger.error(f"Lỗi khi xử lý dữ liệu từ API {api_url}: {e}", exc_info=True)
         return False
-
