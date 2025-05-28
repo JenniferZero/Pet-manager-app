@@ -4,7 +4,6 @@ from pet_manager import PetManager
 from user_manager import UserManager
 from data_fetcher import DataFetcher
 
-
 class PetApp:
 
     def __init__(self, root):
