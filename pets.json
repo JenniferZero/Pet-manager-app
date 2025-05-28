@@ -1,0 +1,18 @@
+
+[
+    {
+        "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+        "name": "Lucky",
+        "breed": "Golden Retriever",
+        "age": "3 tuổi",
+        "gender": "Đực"
+    },
+    {
+        "id": "f9e8d7c6-b5a4-3210-fedc-ba9876543210",
+        "name": "Mimi",
+        "breed": "Mèo Anh lông ngắn",
+        "age": "1 tuổi",
+        "gender": "Cái"
+    }
+]
+

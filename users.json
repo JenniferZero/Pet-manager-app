@@ -1,0 +1,22 @@
+[
+    {
+        "username": "user1",
+        "password": "password123",
+        "role": "user"
+    },
+    {
+        "username": "admin",
+        "password": "admin123",
+        "role": "admin"
+    },
+    {
+        "username": "urer1",
+        "password": "9b8769a4a742959a2d0298c36fb70623f2dfacda8436237df08d8dfd5b37374c",
+        "role": "user"
+    },
+    {
+        "username": "bang",
+        "password": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+        "role": "user"
+    }
+]
